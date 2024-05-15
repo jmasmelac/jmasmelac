@@ -8,13 +8,39 @@
 <br>
 
 - Electronic engineer with experience in the design and development of both hardware and software solutions.
-- Self-taught and have skills in programming and the integration of microcontrollers in electronic projects.
-- During my training in a master's module, I specialized in data analysis and the identification of correlations and more.
+- Self-taught with skills in programming and the integration of microcontrollers in electronic projects.
+- Specialized in data analysis and the identification of correlations using Python.
+- Developed practical projects in C, improving technical skills and project management.
 
 <br><br>
 
+## Acerca de Mí
 
-## Technologies
+<br>
+
+- Ingeniero electrónico con experiencia en el diseño y desarrollo de soluciones tanto de hardware como de software.
+- Autodidacta con habilidades en programación e integración de microcontroladores en proyectos electrónicos.
+- Especializado en análisis de datos y la identificación de correlaciones utilizando Python.
+- Desarrollé proyectos prácticos en C, mejorando habilidades técnicas y de gestión de proyectos.
+
+<br><br>
+
+## Projects
+
+### sensor_ph_plus
+- **Description:** A project focused on developing a pH sensor system.
+- **Technologies:** C, C++, Microcontrollers
+- [Repository](https://github.com/jmasmelac/sensor_ph_plus)
+
+### ejercocios_prog_publ
+- **Description:** A collection of programming exercises for public use.
+- **Technologies:** Python and C/C++ 
+- [Repository](https://github.com/jmasmelac/ejercocios_prog_publ)
+
+
+<br><br>
+
+## Technologies / Tecnologías
 <br>
 
 <p align="center">
@@ -60,4 +86,5 @@
 </a>
 </li>
 
-<br>
+
+
