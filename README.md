@@ -32,6 +32,11 @@
 - **Technologies:** C, C++, Microcontrollers
 - [Repository](https://github.com/jmasmelac/sensor_ph_plus)
 
+## proyecto final del módulo de maestría en análisis de datos
+- **Description:** A project focused on the prediction of benign or malignant tumors based on their morphology
+- **Technologies:** python, pandas
+- [Repository](https://github.com/jmasmelac/final_maestria_data_analyst) 
+
 ### ejercocios_prog_publ
 - **Description:** A collection of programming exercises for public use.
 - **Technologies:** Python and C/C++ 
