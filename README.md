@@ -32,10 +32,15 @@
 - **Technologies:** C, C++, Microcontrollers
 - [Repository](https://github.com/jmasmelac/sensor_ph_plus)
 
+### Análisis Predictivo de Conversión: Optimizando Estrategias de Marketing Basadas en Datos
+- **Description:** Identificación de factores clave para optimizar la conversión de clientes en campañas de marketing.
+- **Technologies:** python, pandas
+- [Repository](https://github.com/jmasmelac/ejercocios_prog_publ/blob/master/Python_proyects/%7B40%7Dejercicio_banco/analisis_banco.ipynb) 
+
 ### proyecto final del módulo de maestría en análisis de datos
 - **Description:** A project focused on the prediction of benign or malignant tumors based on their morphology
 - **Technologies:** python, pandas
-- [Repository](https://github.com/jmasmelac/final_maestria_data_analyst) 
+- [Repository](https://github.com/jmasmelac/final_maestria_data_analyst/blob/main/proyecto_final_maestria_analisis_datos/Proyecto_final.ipynb) 
 
 ### ejercocios_prog_publ
 - **Description:** A collection of programming exercises for public use.
