@@ -5,71 +5,69 @@
 
 ## About Me
 
-<br>
-
 - Electronic engineer with experience in the design and development of both hardware and software solutions.
 - Self-taught with skills in programming and the integration of microcontrollers in electronic projects.
 - Specialized in data analysis and the identification of correlations using Python.
 - Developed practical projects in C, improving technical skills and project management.
 
-<br><br>
-
 ## Acerca de Mí
-
-<br>
 
 - Ingeniero electrónico con experiencia en el diseño y desarrollo de soluciones tanto de hardware como de software.
 - Autodidacta con habilidades en programación e integración de microcontroladores en proyectos electrónicos.
 - Especializado en análisis de datos y la identificación de correlaciones utilizando Python.
 - Desarrollé proyectos prácticos en C, mejorando habilidades técnicas y de gestión de proyectos.
 
-<br><br>
-
 ## Projects
 
+### Diagnostico_PC
+
+- **Description:** Herramienta para obtener y analizar información técnica de distintos dispositivos, orientada a diagnóstico y verificación operativa.
+- **Technologies:** Bash, Shield
+- **Repository:** [repository](https://github.com/jmasmelac/Diagnostico_PC)
+
+### CNC-para-PCB
+
+- **Description:** Proyecto orientado al proceso de fabricación de PCBs mediante control CNC. Incluye preparación técnica, ajustes mecánicos y flujo de trabajo.
+- **Technologies:** Hardware control, CNC workflows
+- **Repository:** [repository](https://github.com/jmasmelac/CNC-para-PCB)
+
+### Análisis Predictivo de Conversión
+
+- **Description:** Identificación de factores que influyen en la conversión de clientes en campañas de marketing mediante análisis exploratorio y modelos predictivos.
+- **Technologies:** Python, pandas
+- **Repository:** [repository](https://github.com/jmasmelac/ejercocios_prog_publ/blob/master/Python_proyects/%7B40%7Dejercicio_banco/analisis_banco.ipynb)
+
+### Proyecto final del módulo de maestría en análisis de datos
+
+- **Description:** Modelo predictivo para clasificación de tumores (benignos o malignos) basado en variables morfológicas y métricas derivadas.
+- **Technologies:** Python, pandas, scikit-learn
+- **Repository:** [repository](https://github.com/jmasmelac/final_maestria_data_analyst/blob/main/proyecto_final_maestria_analisis_datos/Proyecto_final.ipynb)
+
 ### sensor_ph_plus
-- **Description:** A project focused on developing a pH sensor system.
-- **Technologies:** C, C++, Microcontrollers
-- [Repository](https://github.com/jmasmelac/sensor_ph_plus)
 
-### Análisis Predictivo de Conversión: Optimizando Estrategias de Marketing Basadas en Datos
-- **Description:** Identificación de factores clave para optimizar la conversión de clientes en campañas de marketing.
-- **Technologies:** python, pandas
-- [Repository](https://github.com/jmasmelac/ejercocios_prog_publ/blob/master/Python_proyects/%7B40%7Dejercicio_banco/analisis_banco.ipynb) 
-
-### proyecto final del módulo de maestría en análisis de datos
-- **Description:** A project focused on the prediction of benign or malignant tumors based on their morphology
-- **Technologies:** python, pandas
-- [Repository](https://github.com/jmasmelac/final_maestria_data_analyst/blob/main/proyecto_final_maestria_analisis_datos/Proyecto_final.ipynb) 
+- **Description:** Sistema básico para medición de pH mediante microcontrolador. Contempla lectura analógica, acondicionamiento y procesamiento inicial.
+- **Technologies:** C, C++, microcontroladores
+- **Repository:** [repository](https://github.com/jmasmelac/sensor_ph_plus)
 
 ### ejercocios_prog_publ
-- **Description:** A collection of programming exercises for public use.
-- **Technologies:** Python and C/C++ 
-- [Repository](https://github.com/jmasmelac/ejercocios_prog_publ)
 
-
-<br><br>
+- **Description:** Colección de ejercicios de programación desarrollados en Python y C/C++. Útiles para práctica, pruebas y desarrollo de fundamentos.
+- **Technologies:** Python, C, C++
+- **Repository:** [repository](https://github.com/jmasmelac/ejercocios_prog_publ)
 
 ## Technologies / Tecnologías
-<br>
-
-<p align="center">
 
 - **Languages**:
-    
+
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
 
 - **Microcontrollers**:
 
   ![Static Badge](https://img.shields.io/badge/stm-Cube%20IDE-yellow?style=for-the-badge&logo=stmicroelectronics&logoColor=%2303234B&labelColor=yellow&color=%233cb5e8)
   ![Static Badge](https://img.shields.io/badge/Arduino-IDE-yellow?style=for-the-badge&logo=arduino&logoColor=white&labelColor=%2300878F&color=%23e67e22)
   ![Static Badge](https://img.shields.io/badge/-ESP--32-yellow?style=for-the-badge&logo=espressif&logoColor=red&labelColor=white&color=black)
-
-
-  
 
 - **Technologies I'm Learning**:
 
@@ -79,22 +77,16 @@
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  
-<br>  
 
 <!--  REDES SOCIALES ///////////////////////////////////////////////////////////////////////////-->
-## contact me
-<br>
+## Contact Me
 
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/jmasmelac/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  jmasmelac-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/jmasmelac/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:  jmasmelac-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+      </a>
+    </li>
+  </ul>
+</div>
